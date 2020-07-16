@@ -11,6 +11,8 @@ pandas = "*"
 spacy = "*"
 cltk = "*"
 scattertext = "*"
+matplotlib = "*"
+requests = "*"
 
 [requires]
 python_version = "3.8"
